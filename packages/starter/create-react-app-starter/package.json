@@ -50,7 +50,7 @@
         "shx": "^0.3.4",
         "source-map-loader": "^4.0.1",
         "typescript": "~4.7.4",
-        "webpack": "^5.75.0"
+        "webpack": "^5.104.1"
     },
     "eslintConfig": {
         "extends": [
